@@ -1,0 +1,18 @@
+header{
+    text-align: right;
+    height: fit-content;
+}
+
+#points,#timer{
+    margin-left: 1000px;
+}
+
+body{
+    font-family: 'Pacifico',cursive;
+    font-size: large;
+    background-color: rgb(65, 196, 152);
+}
+
+#head{
+    font-size: x-large;
+}
